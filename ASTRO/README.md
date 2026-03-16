@@ -1,1 +1,0 @@
-Mathematica notebooks de Astrofísica
