@@ -1,2 +1,2 @@
 # Mathematica-Notebooks
-Mathematica notebooks from physics degree courses 
+Mathematica notebooks from some of the physics degree course.
